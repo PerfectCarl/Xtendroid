@@ -269,6 +269,13 @@ android {
 }
 ```
 
+Method 4: Ivy dependency 
+---------------------------
+Add the following to your `ivy.xml` file 
+```
+<dependency org="com.github.tobykurien" name="xtendroid" rev="0.11.0"/>
+```
+
 Xtend
 =====
 
